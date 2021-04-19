@@ -6,7 +6,7 @@ def index(request):
     return HttpResponse('''
     <h1>Hello Zuri!</h1>
     <p>
-    My Name is Olabanji MAyowa Emmanuel
-    I'm learning python with django with Zuri & I4G
+    My Name is Mayowa Emmanuel Olabanji
+    I'm learning backend development using python with django with Zuri & I4G
     </p>
     ''')
